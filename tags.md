@@ -1,3 +1,5 @@
+---
 title: Tags
 layout: tag
-permalink: /tags
+permalink: /tags/
+---
