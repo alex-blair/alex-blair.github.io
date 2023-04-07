@@ -2,3 +2,6 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 title: Kleine Hof
 description: Abenteuer für die Kleinen in Berlin
 locale: en-GB
+search_full_content: true
+category_archive_path: "/categories/#"
+tag_archive_path: "/tags/#"
