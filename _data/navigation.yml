@@ -1,12 +1,12 @@
 - title: Home
   url: /
 - title: Posts
-  url: /posts/
+  url: /posts
 - title: Categories
-  url: /categories/
+  url: /categories
 - title: Tags
-  url: /tags/
+  url: /tags
 - title: Places
-  url: /places/
+  url: /places
 - title: Search
-  url: /search/
+  url: /search
